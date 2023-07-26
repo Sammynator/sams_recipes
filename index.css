@@ -1,0 +1,16 @@
+
+* {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    background-color: rgb(255, 250, 244);
+}
+
+img {
+    height: auto;
+    width: 375px;
+}
+
+.title {
+    font-size: 38px;
+    font-weight: bold;
+}
+
