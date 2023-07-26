@@ -6,7 +6,10 @@
 
 
 .title {
-    
     font-weight: bold;
 }
 
+img {
+    height: auto;
+    width: 250px;
+}
