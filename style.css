@@ -14,3 +14,15 @@ img {
     height: auto;
     width: 250px;
 }
+
+ul {
+    list-style: none;
+    
+}
+
+.disclaimer, span{
+    background-color: rgb(221, 175, 118);
+    width: fit-content;
+}
+
+
